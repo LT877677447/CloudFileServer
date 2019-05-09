@@ -1,0 +1,4 @@
+{
+	"cserverurl": "http://[YUN_SERVER_IP]:[YUN_SERVER_PORT]/zfyuncontrol",
+	"WebServer_Path": "D:/WebServer/"
+}
